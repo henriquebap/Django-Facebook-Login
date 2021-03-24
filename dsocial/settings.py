@@ -140,8 +140,8 @@ SOCIAL_AUTH_RAISE_EXCEPTIONS = False
 
 # config para facebook
 
-SOCIAL_AUTH_FACEBOOK_KEY = '138140508232970'
-SOCIAL_AUTH_FACEBOOK_SECRET = 'b75262024acca3d145c69acb5a4269df'
+SOCIAL_AUTH_FACEBOOK_KEY = '***********'
+SOCIAL_AUTH_FACEBOOK_SECRET = '***********'
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email', 'user_link']
 SOCIAL_AUTH_FACEBOOK_PROFILE_EXTRA_PARAMS = {
     'fields': 'id, name , email, picture.type(large), link'
